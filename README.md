@@ -1,5 +1,8 @@
 # flickr_fix
 
+![image](https://github.com/ritikashrivastava16/StrobeDetectionComputerVision/assets/54627261/3cad03eb-efe3-4b8e-9472-1515a85457d6)
+
+
 ### To detect and process strobing intervals in real-time using Flickr Fix, follow these steps:
 
 1. Ensure you have Python and OpenCV installed on your system.
